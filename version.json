@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latestVersion": "1.1.0",
+    "versionCode": 2,
+    "minVersionCode": 1,
+    "forceUpdate": false,
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dailykhata",
+    "releaseNotes": "Hindi/English UI, dashboard redesign, full backup, credit ledger, reports, category filters, and in-app update alerts."
+  }
+}
